@@ -112,7 +112,7 @@ function init() {
 
     window.addEventListener( 'resize', onWindowResize );
 }
-*
+
 function onWindowResize(){
     camera.aspect = window.innerWidth / window.innerHeight;
     camera.updateProjectionMatrix();
