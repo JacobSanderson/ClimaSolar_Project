@@ -1,6 +1,10 @@
 # ClimaSolar_Project
 Proyecto del Hackaton NASA 2022
 
+## Referencias
+* (NASA)[https://sdo.gsfc.nasa.gov/data/aiahmi/]
+* (Earth's factsheet)[https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html]
+
 ## Dependencias
 * Python
 
